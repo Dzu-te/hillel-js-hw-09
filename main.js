@@ -50,7 +50,7 @@ console.log('#9. JavaScript homework example file')
 //   document.addEventListener('mousemove', (event) => {
 //     const cordX = event.clientX;
 //     const cordY = event.clientY;
-//     console.log(`Mouse X: ${viewportX}, Mouse Y: ${viewportY}`);
+//     console.log(`Mouse X: ${cordX}, Mouse Y: ${cordY}`);
 //   });
 // }
 // console.log(trackMousePosition())
