@@ -48,8 +48,8 @@ console.log('#9. JavaScript homework example file')
 // function trackMousePosition() {
 
 //   document.addEventListener('mousemove', (event) => {
-//     const viewportX = event.clientX;
-//     const viewportY = event.clientY;
+//     const cordX = event.clientX;
+//     const cordY = event.clientY;
 //     console.log(`Mouse X: ${viewportX}, Mouse Y: ${viewportY}`);
 //   });
 // }
